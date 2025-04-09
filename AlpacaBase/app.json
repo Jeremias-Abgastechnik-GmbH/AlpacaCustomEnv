@@ -11,12 +11,6 @@
   "url": "",
   "logo": "",
   "dependencies": [
-    {
-      "id": "5048dda0-0cc9-45fb-ae45-09d8bfef8813",
-      "publisher": "DavidKeTo",
-      "name": "DavidProject",
-      "version": "1.0.0.0"
-    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
