@@ -1,3 +1,16 @@
 {
-    "backendUrl": "https://cosmo-alpaca-enterprise.westeurope.cloudapp.azure.com/"
+    "backendUrl": "https://cosmo-alpaca-enterprise.westeurope.cloudapp.azure.com/",
+    "containerConfigurations":
+    {
+        "name": "default",
+        "country": "de",
+        "version": "25.4.29661.32699",
+        "artifacts": [
+            {
+                "name": "DavidKeTo",
+                "url": "https://jeralpaca.blob.core.windows.net/container/DavidKeTo_DavidProject_1.0.0.0.app.zip?sv=2023-01-03&st=2025-04-09T10%3A17%3A11Z&se=2025-04-10T10%3A17%3A11Z&sr=b&sp=racwdx&sig=%2Fl3U4qjrjWCAZ29UiK7%2FynOJGv1TU7uliPTsPEgX7TA%3D",
+                "type": "url"
+            }
+        ]
+    }
 }
